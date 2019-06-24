@@ -7,6 +7,7 @@
 
 # dependencies
 /node_modules
+/angular.json
 
 # IDEs and editors
 /.idea
